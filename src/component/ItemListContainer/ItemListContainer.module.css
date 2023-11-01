@@ -1,0 +1,16 @@
+div ul {
+    display: flex;
+    list-style: none;
+    padding: 0px 0px 0px 0px 
+}
+
+div ul li a {
+    color: white;
+    margin:5px;
+    text-decoration: none;
+}
+
+p {
+    margin:15px;
+    color: rgb(196, 69, 69)
+}

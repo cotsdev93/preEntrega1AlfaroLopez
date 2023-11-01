@@ -1,0 +1,15 @@
+div {
+  display: flex;
+  align-items: center;
+}
+
+span {
+  color: white
+}
+
+.circulo {
+  background-color: rgb(159, 169, 229);
+  border-radius: 100%;
+}
+
+
