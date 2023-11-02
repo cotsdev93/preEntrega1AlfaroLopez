@@ -4,9 +4,9 @@ export default function ItemListContainer(props) {
     <>
       <div>
         <ul>
-          <li><a href="">Inicio</a></li>
-          <li><a href="">Pinturas</a></li>
-          <li><a href="">Fotos</a></li>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Pinturas</a></li>
+          <li><a href="#">Fotos</a></li>
         </ul>
 
       </div>
